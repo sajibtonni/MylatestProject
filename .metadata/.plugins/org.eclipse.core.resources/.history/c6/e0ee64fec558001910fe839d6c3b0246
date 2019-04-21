@@ -1,0 +1,15 @@
+package step_definition;
+
+import org.openqa.selenium.WebDriver;
+
+import com.objects.UI;
+
+public class RegresstionTest {
+	
+	WebDriver driver;
+	UI ui;
+	String url= "google.com";
+	
+	
+
+}

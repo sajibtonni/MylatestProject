@@ -1,0 +1,5 @@
+step_definition\RegresstionTest.class
+com\objects\UI.class
+com\objects\RegressionObjs.class
+step_definition\TestRunner.class
+step_definition\Hooks.class

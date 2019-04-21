@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Login Test Suite">
+  <test name="test with chrome browser" >
+    <classes>
+      <class name="step_defination.RegressionTest" />
+      <methods>
+      <include name="1st method like test1"</include> // ক্লাসের মধ্যে যে মেথড আছে হুবহু একই নামে হবে।
+      <include name="1st method like test2"></include>
+      <include name="1st method like test3"></include>
+      </methods>
+       
+	
+    </classes>
+  </test>
+
+</suite>
