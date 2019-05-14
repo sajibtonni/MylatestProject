@@ -1,0 +1,5 @@
+package practice;
+
+ interface Ridoy {
+
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "comments": [
+      {
+        "line": 1,
+        "value": "#Author: nezam.uddin@gmail.com"
+      },
+      {
+        "line": 2,
+        "value": "#Keywords Summary :"
+      }
+    ],
+    "line": 4,
+    "elements": [
+      {
+        "line": 7,
+        "name": "Cucumber Project",
+        "description": "",
+        "id": "cucumber-practice;cucumber-project",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 8,
+            "name": "I want to login",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 9,
+            "name": "I want to scroll the page",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 10,
+            "name": "I complete action",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "I validate the actions",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 6,
+            "name": "@RegressionTest"
+          }
+        ]
+      }
+    ],
+    "name": "Cucumber Practice",
+    "description": "",
+    "id": "cucumber-practice",
+    "keyword": "Feature",
+    "uri": "src/test/resources/Feature/CucumberLogin.feature",
+    "tags": [
+      {
+        "line": 3,
+        "name": "@CucumberProject"
+      }
+    ]
+  }
+]

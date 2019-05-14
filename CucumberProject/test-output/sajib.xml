@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Login Test Suite">
+  <test name="test with chrome browser" >
+    <classes>
+       <class name="page_objs.CucumberProjectObjs" />
+       
+    </classes>
+  </test>
+
+</suite>

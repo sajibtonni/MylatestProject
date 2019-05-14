@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite1" verbose="1" >
+  <test name="Regression"   >
+    
+    <classes>
+    <class>
+    
+    <methods>
+    <parameter name = "userid" value="abc123"></parameter>
+    <parameter name = "userid" value="abc123"></parameter>
+    </methods>
+    </class>
+    </classes>
+ </test>
+</suite>
